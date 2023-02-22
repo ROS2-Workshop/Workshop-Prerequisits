@@ -1,10 +1,18 @@
 # ROS-Workshop prerequisits
 
 
-1. Visual Studio Code
-2. Git and tiling termnial
-3. ROS2 Humble
+1. Ubuntu 22.04
+2. Visual Studio Code
+3. Git and tiling termnial
+4. ROS2 Humble
 
+
+## Installing Ubuntu 22.04
+
+> [Ubuntu 22.04 instructions](https://linuxconfig.org/how-to-install-ubuntu-22-04-jammy-jellyfish-desktop)
+
+
+---
 
 The following commands should install all prerequisits:
 
@@ -39,4 +47,3 @@ git clone https://github.com/ROS2-Workshop/ros2_setup_scripts_ubuntu
 cd ros2_setup_scripts_ubuntu 
 ./run.sh
 ```
-
