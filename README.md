@@ -35,7 +35,7 @@ sudo apt install code
 Git will be used for cloning demos and the terminal 'terminator' will be used for tiling a terminal rather than having multiple terminals.
 
 ```bash
-sudo apt install terminator python-is-python3 git wget curl -y
+sudo apt install terminator python-is-python3 git wget curl python3-pip -y
 ```
 
 ## ROS2 Humble 
